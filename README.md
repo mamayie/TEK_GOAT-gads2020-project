@@ -1,2 +1,2 @@
-# TEK_GOAT-gads2020-project
+# Mohammed Kwasi Appiah-GADS2020-Project-Submission
 ScreentShots of Completed Hands-on-Lab Project
