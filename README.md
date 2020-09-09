@@ -1,2 +1,1 @@
-# Mohammed Kwasi Appiah-GADS2020-Project-Submission
-ScreentShots of Completed Hands-on-Lab Project
+# Mohammed-GADSProject-2020-Submissioms
